@@ -2,4 +2,4 @@
 Analisis de Data en Tenis
 Emily Gallardo 
 Jeremias Mogollon
-Chistopher Pescoso
+Cristopher Pescoso
