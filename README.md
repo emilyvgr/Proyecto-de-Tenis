@@ -3,7 +3,7 @@
 ## Objetivo general.
 Analizar el impacto de la superficie de la cancha (hard, clay, grass) en la probabilidad de que el jugador favorito (determinado por ranking ATP o cuotas de apuestas) gane un partido de tenis profesional, utilizando técnicas estadísticas descriptivas e inferenciales en una base de datos de aproximadamente 6.000 partidos.
 
-## Onjetivo especificos.
+## Objetivos especificos.
   1. Caracterizar la distribución de partidos por superficie de cancha, ronda del torneo y nivel del evento (Series), identificando patrones descriptivos en la base de datos.
   2. Calcular y comparar la proporción de victorias del jugador favorito (definido como el de mejor ranking o menor odd) en cada tipo de superficie (hard, clay, grass).
   3. Evaluar si existe una asociación estadísticamente significativa entre la superficie de la cancha y la victoria del favorito, mediante pruebas de hipótesis (como chi-cuadrado de independencia).
