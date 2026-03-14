@@ -1,5 +1,6 @@
 # ¿Influye significativamente la superficie de la cancha en la probabilidad de que gane el jugador mejor rankeado (o favorito según odds)?
 El problema central de este estudio radica en lo infravalorada que esta la superficie como predictor de rendimiento. Para abordar esta problematica, se dispone de un conjunto de datos historicos que abarcan desde el año 2000 hasta el año 2026, el cual incluye palmares, marcadores detallados y determinacion del jugdor favorito previo al encuentro. La existencia de estos datos permite identificar el sesgo sistematico: mientras que las cuotas de apuestasy el favoritismo suelen seguir la inercia del ranking ATP/WTA, el analisis historicos de los marcadores revela que la superficie actua como un ecualizador que invalida las jerarquias tradicionales. El problema, por lo tanto, es la ausencia de un modelo integral que use estos 26 años de historia para corregir las predicciones basadas puramente en el nombre del jugador, optimizando asi la toma de decisiones en el mercado deportivo.
+
 ## Objetivo general.
 Analizar el impacto de la superficie de la cancha (hard, clay, grass) en la probabilidad de que el jugador favorito (determinado por ranking ATP o cuotas de apuestas) gane un partido de tenis profesional, utilizando técnicas estadísticas descriptivas e inferenciales en una base de datos de aproximadamente 6.000 partidos.
 
